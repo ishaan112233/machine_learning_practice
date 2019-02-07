@@ -1,2 +1,2 @@
 # machine_learning_practice
-Practising Basic Machine Learning Concepts
+Practising Basic Machine Learning Models
